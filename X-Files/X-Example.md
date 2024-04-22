@@ -29,15 +29,10 @@ Each Hazard has its own Notes section. Notes relating to the object(s) in genera
 A theoretical, perfectly-generic object. This is an example of what a filled-out Hazard section would look like.
 
 Hazard: Mind
-
 Mechanism: Eyeball
-
 Time: Instant, Lightswitch
-
 Range: Room
-
 Containment: Concrete, Idol
-
 Countermeasures: Armor
 
 ### Notes
