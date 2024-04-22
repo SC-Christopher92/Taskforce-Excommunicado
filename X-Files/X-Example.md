@@ -47,3 +47,4 @@ This theoretical object induces headaches in anybody who can get a clear look at
 > One of the prevailing theories about anomalous objects is the "legend" theory--the idea that objects become anomalous because of humans mythologizing them, to the point of objects spontaneously manifesting if enough humans believe in a fictional (semi-fictional? pseudo-fictional?) object.
 > 
 > If we assume this is true, it logically follows that an object needs enough physical details to be believably 'real' in order to manifest. Therefore: The Perfectly Generic Object is a green cube. If enough of our agents read this addendum and start thinking of the PGO as a green cube, we *should*--in theory--eventually see a green cube crop up in our searches for new objects. At that point, the legend theory will be a step or two closer to being proven, and we can start experimenting with more complex 'legends'.
+> - Dr. D. Breeze
