@@ -172,13 +172,6 @@ Weapons with the **Field** tag can strike at opponents within a 30 to 50 foot ra
 ##### Far 
 Weapons with the **Far** tag can strike at opponents within a 100 to 300 foot range. 
 
-# Death 
-
-##### Death’s Door 
-Roll 2d6 + LCK three times, for each result under 8 take a miss, every roll above 8 is a hit. If you have more misses than hits your character is considered dead. 
-##### Blaze of Glory 
-If you choose to end a characters life in a Blaze of Glory they make a counter attack against the opponent that downed them to 0HP and deal 12+6d6 damage before passing away. 
-
 # List of Equipment 
 ### Weapons 
 Weapons are Level 1 unless otherwise specified. 
