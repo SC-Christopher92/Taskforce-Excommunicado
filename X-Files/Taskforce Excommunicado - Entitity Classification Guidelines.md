@@ -209,6 +209,8 @@ The information given in Containment describes strategies for safely storing and
 
 - Ghost: The entity is not bound to a physical form; physical restraints are not effective.
 
+- Shrine: The entity or its effects are bound to a specific geographical location, such as a particular building, town, or landmark. See notes for exact locations. The opposite of Zen.
+
 - Saltmine: The entity cannot cross or interact with certain materials. The exact material and its effects will be detailed in the notes; this can range from the entity not being able to cross lines drawn with a certain material, to the entity's effects being blocked by certain materials, or even cases where the material causes harm to the entity on contact. Often paired with the Lead Shirt keyword on effects, but not always.
 
 # Countermeasures
