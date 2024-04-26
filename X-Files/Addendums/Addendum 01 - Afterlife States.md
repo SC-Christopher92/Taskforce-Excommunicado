@@ -64,7 +64,7 @@ The Waiting Room is a small office waiting room. Consistent details include:
 - A number (typically 2-4) of magazines in a language that has yet to be identified or translated.
 - A clock that does not tick.
 
-Witnesses describe the experience as excrutiatingly boring. Some witnesses experienced a panic attack while in the Waiting Room, due to fears that they would experience eternity inside it.
+Witnesses describe the experience as excruciatingly boring. Some witnesses experienced a panic attack while in the Waiting Room, due to fears that they would experience eternity inside it.
 
 ##### Note
 These afterlife states need further research. These six are the most common experiences reported by Agents, however other afterlife states have been observed. As always if suicidal ideation persists after five days please report to your site chaplain as soon as possible.
