@@ -70,7 +70,7 @@
 ### Random Table: Containment
 **Containment Keywords (Roll 1d20)**
 
-1. Concrete
+1. Concrete/Shrine (Flip a coin)
 2. Buffer
 3. Darkness
 4. Spotlight
