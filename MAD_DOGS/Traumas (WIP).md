@@ -17,4 +17,4 @@ When a character dies and is resurrected they take a psychosis you can have up t
 ### 5
 ### 6
 
-# Removing Psychosis
+# Removing Traumas

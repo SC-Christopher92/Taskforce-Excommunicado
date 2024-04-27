@@ -91,9 +91,13 @@ Every character will start with sixteen (16) skill points which they will assign
 |              |            |           |             |              |              |              |              |
 |              |            |           |             |              |              |              |              |
 |              |            |           |             |              |              |              |              |
-##### Traumas
-After the initial character creation the only way to improve a character's skill level is to fail. A failed roll will gain a character a trauma. Traumas can be spent on skills 
-- (lore note this is maybe some DPI mind thing that they developed that literally lets agents focus trauma into learning new skills idk.)
+##### Experience
+1. **Initial Character Creation**: When you first create your character, you allocate skill levels. These are the starting points for your skills.
+2. **Improving Skills**: After character creation, the only way to increase a skill level is by failing a roll related to that skill.
+3. **Earning Experience Points (XP)**: When a character fails a roll, they gain an experience point (XP). This represents the character learning from their mistakes or experiences, possibly through some sort of mental training or process like DPI (if that's what you intended).
+4. **Spending XP**: Experience points can then be spent to increase skills. To increase a skill, you need to spend a certain amount of XP on it.
+5. **Resetting the Counter**: After spending the required amount of XP to increase a skill, you reset the XP counter for that skill back to 0. This means you start again from scratch in terms of accumulating XP for that skill.
+6. **Skill Progression**: The amount of XP needed to progress from one skill level to another increases with each tier. For example, to move from Novice to Apprentice might require 10 XP, but to move from Apprentice to Journeyman might require 50 XP.
 
 | Traumas | Skill Level |
 | ------- | ----------- |
@@ -106,7 +110,7 @@ After the initial character creation the only way to improve a character's skill
 ### Stress & High
 Throughout the game, characters will accumulate Stress and High points. For each point of Stress a character possesses, they suffer a -1 penalty on their rolls. Stress can be alleviated by expending a High point. Each High point spent reduces the character's Stress by 1. Additionally, at any moment, a High point can be expended to grant a +1 bonus to a roll for each point spent.
 
-If a character's Stress exceeds 5 points, they lose 1 HP for each additional point of Stress beyond 5, and their Stress resets to 5. Players can maintain a maximum of 4 High points at any given time.
+If a character's Stress exceeds 5 points, they lose 1 HP for each additional point of Stress beyond 5, and their Stress resets to 5. Players can maintain a maximum of 3 High points at any given time.
 # Combat
 ## Spaces, Movement & Turns 
 ##### Spaces 
@@ -176,17 +180,23 @@ Weapons with the **Far** tag can strike at opponents within a 100 to 300 foot ra
 ### Weapons 
 Weapons are Level 1 unless otherwise specified. 
 ##### Unarmed
-Light, Melee. 
+Light, Melee.
+##### Knife
+Light, Melee. Deal additional 1d4 damage.
 ##### Baseball Bat 
-Medium, Melee, 
+Medium, Melee. 
 ##### Shotgun 
-Light, Reload (2), Room. Deal an additional 1d6 damage. 
+Medium, Reload (2), Arc, Room/Field (Light). Deal an additional 1d6 damage. 
 ##### Pistol 
-Medium, Reload (10), Room. 
+Light, Reload (10), Room. 
 ##### Revolver 
-Heavy, Reload (6), Room. 
+Medium, Reload (6), Room. 
 ##### Assault Rifle 
-Heavy, Reload (4), Field. 
+Medium, Reload (4), Field.
+##### Battle Rifle
+Heavy, Reload (3) Field.
+##### Sniper Rifle
+Tech, Reload (1), Piercing, Far.
 ##### Flame Thrower 
 Tech, Arc, Reload (1), Room. Requires: Mechanics (3). 
 **Burn:** Deals 1 damage per round for 1d6 rounds on each target within range. 
@@ -194,7 +204,7 @@ Tech, Arc, Reload (1), Room. Requires: Mechanics (3).
 ### Items 
 ##### Ammunition 
 Arrows, Bullets, or otherwise for ranged weapons. Enough for 4 Reloads. 
-##### Stim 
+##### Stims
 Regain 1d6 HP, take 1 point of Stress. 
 ##### Grenade 
 Light, Explosive, Field. 
@@ -204,5 +214,5 @@ Light, Explosive, Field.
 +4 FT. 
 ##### Heavy Armor 
 +6 FT. -2 Movement. 
-##### Comms
+##### Coms
 Allows communication between any individuals on the same comms channel outside of Room range.

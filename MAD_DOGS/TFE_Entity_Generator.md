@@ -1,5 +1,5 @@
 ### Random Table: Effects
-**1. Hazard Keywords (Roll 1d20)**
+**1. Hazard Keywords (Roll 1d4 for number, Roll 1d20)**
 1. Stone
 2. Glass
 3. Finder/[Object]
@@ -21,25 +21,7 @@
 19. Mimic
 20. Diamond
 
-**2. Time Keywords (Roll 1d6)**
-1. Immediate
-2. Day
-3. Week
-4. Month
-5. Lifetime
-6. Lightswitch
-
-**2. Range Keywords (Roll 1d8)**
-1. Melee
-2. Room
-3. Street
-4. Field
-5. City
-6. State
-7. Country
-8. Planet
-
-**3. Mechanism Keywords (Roll 1d20)**
+**2. Mechanism Keywords (Roll 1d4 for number, Roll 1d20)**
 1. Eyeball
 2. Camera
 3. Mirror
@@ -61,14 +43,32 @@
 19. X-Ray
 20. Lead Shirt
 
-**4. Danger Keywords (Roll 1d4)**
+**3. Danger Keywords (Roll 1d4)**
 - 1: Angel
 - 2: Ghost
 - 3: Saltmine
 - 4: Skull
 
+**4. Time Keywords (Roll 1d6)**
+1. Immediate
+2. Day
+3. Week
+4. Month
+5. Lifetime
+6. Lightswitch
+
+**5. Range Keywords (Roll 1d8)**
+1. Melee
+2. Room
+3. Street
+4. Field
+5. City
+6. State
+7. Country
+8. Planet
+
 ### Random Table: Containment
-**Containment Keywords (Roll 1d20)**
+**Containment Keywords (Roll 1d4 for number, Roll 1d20)**
 
 1. Concrete/Shrine (Flip a coin)
 2. Buffer
@@ -92,8 +92,7 @@
 20. Radar
 
 ### Random Table: Countermeasures
-**Countermeasure Keywords (Roll 1d20)**
-
+**Countermeasure Keywords (Roll 1d4 for number, Roll 1d20)**
 1. Arrow
 2. Armor
 3. Silver
