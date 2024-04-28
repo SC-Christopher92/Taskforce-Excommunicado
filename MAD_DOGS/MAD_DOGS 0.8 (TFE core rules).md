@@ -79,18 +79,18 @@ In the event that a player is called to roll for a skill while they are still at
 ### Skills 
 Every character will start with sixteen (16) skill points which they will assign to the following skills. Skill levels go from 0 to 5. Novice (0), Apprentice (1), Journeyman (2), Craftsman (3), Artisan (4), Master (5). Each skill level gives +1 to rolls made using the skill up to +5. For each category there are four slots for custom skills. If a skill you think your character should have is not on the list talk this over with the referee during character creation to add a custom skill.
 
-| Physical     | Acrobatics | Technical | Academic    | Survival     | Humanities   | Social       | Command      |
-| ------------ | ---------- | --------- | ----------- | ------------ | ------------ | ------------ | ------------ |
-| Balance      | Parkour    | Mechanics | History     | Foraging     | Philosophy   | Leadership   | Strategy     |
-| Reflexes     | Precision  | Research  | Linguistics | Hunting      | Theology     | Diplomacy    | Tactics      |
-| Stamina      | Stealth    | Design    | Philosophy  | Construction | Arts         | Etiquette    | Logistics    |
-| Endurance    | Tumbling   | Crafting  | Science     | Navigation   | Psychology   | Persuasion   | Leadership   |
-| Adaptability | Vaulting   | Carpentry | Literature  | Nature Lore  | Archeology   | Networking   | Organization |
-| Flexibility  | Dodging    | Farming   | Politics    | First Aid    | Anthropology | Intimidation | Planning     |
-|              |            |           |             |              |              |              |              |
-|              |            |           |             |              |              |              |              |
-|              |            |           |             |              |              |              |              |
-|              |            |           |             |              |              |              |              |
+| Physical     | Acrobatics | Technical  | Humanities   | Command      | Social       | Sciences    | Survival     |
+| ------------ | ---------- | ---------- | ------------ | ------------ | ------------ | ----------- | ------------ |
+| Balance      | Parkour    | Firearms   | Philosophy   | Strategy     | Leadership   | Chemistry   | Foraging     |
+| Reflexes     | Precision  | Research   | Mythology    | Tactics      | Diplomacy    | Mechanics   | Hunting      |
+| Stamina      | Stealth    | Design     | Theology     | Logistics    | Etiquette    | Robotics    | Construction |
+| Endurance    | Tumbling   | Crafting   | Psychology   | Leadership   | Persuasion   | Electronics | Navigation   |
+| Adaptability | Vaulting   | Carpentry  | Archeology   | Organization | Networking   | Meteorology | Botany       |
+| Flexibility  | Dodging    | Explosives | Anthropology | Planning     | Interigation | Technology  | First Aid    |
+| Sprinting    | Climbing   | Forensices | History      | Overwatch    | Negotiation  | Medicine    | Farming      |
+|              |            |            |              |              |              |             |              |
+|              |            |            |              |              |              |             |              |
+|              |            |            |              |              |              |             |              |
 ##### Experience
 1. **Initial Character Creation**: When you first create your character, you allocate skill levels. These are the starting points for your skills.
 2. **Improving Skills**: After character creation, the only way to increase a skill level is by failing a roll related to that skill.
