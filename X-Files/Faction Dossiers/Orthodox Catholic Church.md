@@ -1,0 +1,1 @@
+Idk tl;dr the catholics and the orthodox never split up. Home of the earliest Extranormal Containment Unit, basically crusaders. They don't really like the DPI because of the whole "We operate outside of god" thing. 

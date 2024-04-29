@@ -1,3 +1,5 @@
+[[CRED Index]]
+[[Faction Index]]
 # Example Documentation
 [[X-Example]]
 # 1000 Block
