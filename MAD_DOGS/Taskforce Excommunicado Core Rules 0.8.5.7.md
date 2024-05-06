@@ -28,36 +28,76 @@ Add the following to the 2d12 roll:
 
 # Creating an Agent
 ### The Basics
-Every Agent needs a few things: 
-- A name.
-- Role
-- Background
-- Their Sex. 
-- Their Gender.
-- Their Six Stats. 
-- Their Assets.
-- Traumas.
-- Their Health Points (HP). 
-- Their Fortitude (FT). 
-##### Role
-WIP
-##### Background
-WIP
+
 ##### Sex & Gender
+The character's sex and gender identity. This has no effect on character creation but may come up in gameplay when dealing with anomalies.
+
+##### Role
+- Researchers: Take +1 in any 6 Skills in Sciences, Humanities, and/or Technical.
+- Operators: Take +1 in any 6 Skills in Command, Physical, and/or Acrobatics.
+
+##### Ancestry:
+- Vampire: Start with the Vampirism Trauma. +1 Influence, +1 Agility, -1 Strength.
+- Sasquatch: Start with the Thaumaturgy Trauma, +2 Strength. -2 Agility. +1 Nature Lore.
+- Human: Pick +1 in any 2 Stats. Pick +1 in any 3 Skills.
+- Extranormal Human: Pick +2 in any stat, Take -2 in any stat. Start with Thaumaturgy Trauma.
+
 ##### Six Stats
 See [[#Stats]].
+
 ##### Health Points (HP)
 HP represents your characters overall physical and mental health, when this reaches 0 or lower the character will be considered unable to act until their hp returns above 0. Your character's **HP** starts at four (4) HP and adding the score, not the modifier, of your Strength and Agility together and multiplying by two. (HP = 4 + (STR + AGI) \* 2).
+
+##### Action Points (AP)
+AP = (AGI * 2) + Stamina
+
 ##### Fortitude (FT)
 **Fortitude** represents your character's resilience in deflecting or absorbing damage. It functions to reduce the amount of damage taken from incoming attacks. Each point of Fortitude decreases incoming damage by one hit point (HP). When Fortitude successfully blocks all incoming damage, it decreases by one point until reaching zero (0). Fortitude fully replenishes after a Long Rest or partially replenishes by half (rounded down) after a Short Rest.
 
-To calculate your character's Fortitude, begin with zero (0), then add the total score (not the modifier) of your Luck and Agility. Finally, divide the sum by two and round down to the nearest whole number (Fortitude = (Luck + Agility) / 2).
+- Fortitude = LCK + AGI + Dodging
+##### Sanity
+- Sanity = EDU + INF + Psychology
+
+##### Traumas
+See [[#Traumas]].
+
 ##### Assets
 [[#List of Equipment]]
-##### Traumas
-For every failed roll a character gains one trauma, on a critical fail, two. Traumas can be distributed into skills. See [[#Skills]].
 
-### Stats 
+# Traumas
+When a character dies and is resurrected they take a psychosis you can have up to three then you die for realsies.
+
+| d6  | Trauma            |
+| --- | ----------------- |
+| 1   | Cracked Intellect |
+| 2   | Shadow Touched    |
+| 3   | Braid Touched     |
+| 4   | Hunter's Call     |
+| 5   | Lady Luck's Curse |
+| 6   | Anhedonia         |
+### Cracked Intellect
+Gain a skill level in a sphere of magic.
+Permanently gain an additional +1, up to +3, in Intelligence, however intelligent people are not happy, your stress will never fall below 2. 
+### Shadow Touched
+Gain a skill level in a sphere of magic.
++1 up to 3 Agility, gain Vampirism
+### Braid Touched
+Gain a skill level in a sphere of magic.
+[[CRED_000 - Thaumaturgy]]
+### Hunter's Call
+Gain a skill level in a sphere of magic.
++1 up to +3 strength, Gain Lycanthropy/
+### Lady Luck's Curse
+Gain a skill level in a sphere of magic.
+Gain +1 up to +3 luck. High will never fall below 1.
+### Anhedonia
+Gain a skill level in a sphere of magic.
+High will never go above 0.
+
+### Removing Traumas
+For a character to remove a trauma they must rest uninterrupted for a month. All abilities tied to the trauma will be removed except for any skill in magic spheres.
+
+# Stats 
 Each character has six stats, Strength, Agility, Intelligence, Education, Influence, and Luck. These base.
 
 | Stat         | Influence                            |
@@ -68,33 +108,41 @@ Each character has six stats, Strength, Agility, Intelligence, Education, Influe
 | Education    | Survival Skills, Academic Skills.    |
 | Influence    | Social Skills, Command Skills        |
 | Luck         | Used for non-standard skills.        |
-Stats start at level 1 and go up to level 20. Your stat bonus increases by one (1) for every five (5) points allocated into the skill. The average skill level is 5-9, anything below 5 counts as a -1 penalty.
 
-| Level | Bonus |
-| ----- | ----- |
-| 1-4   | \-1   |
-| 5-9   | ±0    |
-| 10-14 | +1    |
-| 15-19 | +2    |
-| 20+   | +3    |
 ### Assigning Stats
-Roll 2d6 six (6) times, assign the rolls to each stat in any order. Alternatively you may assign 24 points across each of the skills. 
+Stats start at 5 and go up to 10, you get 10 points to distribute, You may remove up to two points to distribute to other stats. You cannot lower the skill below 3.
 
-### Luck 
+Main Roll is still 2d6 + Stat + Skill
+
+| Level | Points to add | Bonus |
+| ----- | ------------- | ----- |
+| 0     | -             | -3    |
+| 1     | -             | -2    |
+| 2     | -             | -2    |
+| 3     | -1            | -1    |
+| 4     | -1            | -1    |
+| 5     | 0             | 0     |
+| 6     | 1             | +1    |
+| 7     | 1             | +1    |
+| 8     | 2             | +2    |
+| 9     | 2             | +2    |
+| 10    | 3             | +3    |
+
+# Luck 
 In the event that a player is called to roll for a skill while they are still at the Novice (0) level, rather than applying the skill bonus the player will apply their Luck Bonus. 
 
-### Skills 
+# Skills 
 Every character will start with sixteen (16) skill points which they will assign to the following skills. Skill levels go from 0 to 5. Novice (0), Apprentice (1), Journeyman (2), Craftsman (3), Artisan (4), Master (5). Each skill level gives +1 to rolls made using the skill up to +5. For each category there are four slots for custom skills. If a skill you think your character should have is not on the list talk this over with the referee during character creation to add a custom skill.
 
 | Physical     | Acrobatics | Technical  | Humanities   | Command      | Social       | Sciences    | Survival     |
 | ------------ | ---------- | ---------- | ------------ | ------------ | ------------ | ----------- | ------------ |
-| Balance      | Parkour    | Firearms   | Philosophy   | Strategy     | Leadership   | Chemistry   | Foraging     |
+| Endurance    | Dodging    | Crafting   | Psychology   | Overwatch    | Interigation | Medicine    | Navigation   |
+| Stamina      | Stealth    | Firearms   | Theology     | Logistics    | Negotiation  | Technology  | First Aid    |
+| Balance      | Parkour    | Design     | Philosophy   | Strategy     | Leadership   | Chemistry   | Foraging     |
 | Reflexes     | Precision  | Research   | Mythology    | Tactics      | Diplomacy    | Mechanics   | Hunting      |
-| Stamina      | Stealth    | Design     | Theology     | Logistics    | Etiquette    | Robotics    | Construction |
-| Endurance    | Tumbling   | Crafting   | Psychology   | Leadership   | Persuasion   | Electronics | Navigation   |
 | Adaptability | Vaulting   | Carpentry  | Archeology   | Organization | Networking   | Meteorology | Botany       |
-| Flexibility  | Dodging    | Explosives | Anthropology | Planning     | Interigation | Technology  | First Aid    |
-| Sprinting    | Climbing   | Forensices | History      | Overwatch    | Negotiation  | Medicine    | Farming      |
+| Flexibility  | Tumbling   | Explosives | Anthropology | Planning     | Persuasion   | Robotics    | Construction |
+| Sprinting    | Climbing   | Forensics  | History      | Leadership   | Etiquette    | Electronics | Farming      |
 |              |            |            |              |              |              |             |              |
 |              |            |            |              |              |              |             |              |
 |              |            |            |              |              |              |             |              |
@@ -114,19 +162,63 @@ Every character will start with sixteen (16) skill points which they will assign
 | 100     | Craftsman   |
 | 250     | Artisan     |
 | 500     | Master      |
-### Stress & High
+# Sanity (WIP)
+tl;dr sanity is calculated by adding your Intelligence and Education and Psychology scores together. Sanity doesn't deal physical damage, at first, if a character's sanity is at 0 for each point of sanity damage the character takes it will instead subtract from HP. Sanity will restore by 1 every four hours of rest.
+# Stress & High
 Throughout the game, characters will accumulate Stress and High points. For each point of Stress a character possesses, they suffer a -1 penalty on their rolls. Stress can be alleviated by expending a High point. Each High point spent reduces the character's Stress by 1. Additionally, at any moment, a High point can be expended to grant a +1 bonus to a roll for each point spent.
 
-If a character's Stress exceeds 5 points, they lose 1 HP for each additional point of Stress beyond 5, and their Stress resets to 5. Players can maintain a maximum of 3 High points at any given time.
+If a character's Stress exceeds 5 points, they lose 1 sanity for each additional point of Stress beyond 5, and their Stress resets to 5. Players can maintain a maximum of 3 High points at any given time.
 
-# Combat
-### Spaces, Movement & Turns 
+# The Clock
+24 hours in a day, time is split up into hours which is made up of six 10 minute segments. The Days are split into four times, Night, Morning, Day, and Evening.
+### Time of Day
+- 21:00 - 04:00 = Night
+- 05:00 - 08:00 = Morning
+- 09:00 - 16:00 = Day
+- 17:00 - 20:00 = Evening
+
+### Effects
+##### Night
+- Vampires: Normal Roll.
+- Humans: -2 All Rolls.
+- Sasquatch: +1 All Rolls.
+##### Morning
+- Vampires: -3 All Rolls.
+##### Day
+- Vampires: +5 Stress.
+- Humans: +1 All Rolls.
+- Sasquatch: -1 All Rolls.
+##### Evening
+- Vampires: Normal Rolls.
+- Sasquatch: +1 All Rolls.
+
+### Actions
+- Full Rest: 24 Hours
+- Short Rest: 1 Hour.
+- Full Combat: 10 Minutes.
+- Travel Time: 60 mp/h.
+- Full Room Search: 30 minutes.
+- Exploring a location: 1 minute / 10 spaces.
+- Research: 1d4 Hours.
+- Interview: 1d4 Hours.
+
+# Research Phase (WIP)
+The player during the research phase will be able to conduct research, conduct interviews, etc. This would all be on a clock. roll 2d6+Stat+Skill, subtract sum from Research Timer. 
+
+# Combat Phase
+### Spaces, AP
 ##### Spaces 
 A **Space** is a square or hexagon taking up 5 ft. A character does not necessarily take up the entire 5 foot square rather it is the space that they reliably control. 
-##### Movement 
-Characters may move 6 + Agility Bonus spaces in a turn. 
-##### Turns 
-Combat is split into two turns, the player round and the opponent round. The players all act within a single turn, which order is up to the players. The players will always act first, then the opponents. During a turn a player may take their movement and make one attack if able. 
+The Scale of this is 1 inch = 5 ft.
+
+##### AP
+- Move 1 space = 1 AP
+- Fire Light Weapon = 1 AP
+- Fire Medium Weapon = 3 AP
+- Fire Heavy Weapons = 5 AP
+- Fire Tech Weapon = 7 AP
+- Use Item = 3 AP
+- Reload = 5 AP
 
 ### Cover & Half Cover 
 During the course of combat players will find themselves under attack. During their turn the players may choose to move behind obstacles. If a character is covered from sight above their head from the perspective of an opponent they are in complete cover and cannot take damage. If a character is covered from the waist down and could reasonable duck behind the object they are in half cover and will take 1/2 incoming damage. 
@@ -135,7 +227,7 @@ During the course of combat players will find themselves under attack. During th
 ###### Short Rests 
 During a Short Rest a player regains 1d6 + LCK HP and 1 fortitude per hour spent resting. For each hour of rest have a player roll 1d6 + LCK, if the result is four (4) or below the rest is interrupted. 
 ###### Long Rests 
-During a Long Rest a player regains their full HP and FT. This is assumed to take 24 hours of uninterrupted rest in a Safe Location such as a town, outpost, or other non wilderness locations.
+During a Long Rest a player regains their full HP and FT, and regains 1 Sanity. This is assumed to take 24 hours of uninterrupted rest in a Safe Location such as a town, outpost, or other non wilderness locations.
 
 ### Attacking & Counterattacks
 tl;dr the character and the enemy attack at the same time, if you fail you miss and the enemy doesn't, if you cost you deal half damage but the enemy deals full damage, if you succeed the enemy misses and you deal full damage. A failed combat roll does not count towards traumas. 

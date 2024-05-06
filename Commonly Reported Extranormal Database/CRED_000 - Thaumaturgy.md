@@ -1,4 +1,4 @@
-tl;dr earliest fuckin' draft: You can't do any thaumaturgy without taking a psychosis. This shit will fuck your enemies up but also it'll fuck you up if you fail specifically during combat.
+tl;dr earliest fuckin' draft: You can't do any thaumaturgy without taking a trauma. This shit will fuck your enemies up but also it'll fuck you up if you fail specifically during combat.
 
 ### you do damage
 Level 1: 1d4 damage
@@ -8,20 +8,13 @@ Level 4: 1d10 damage
 Level 5: 1d12 damage
 
 ### you get fucked up
-Level 1:
-Failure Penalty: Gain 1 point of stress. No immediate physical consequences beyond the stress penalty.
+1d4 sanity damage per spell level, 1 level of stress per spell.
 
-Level 2:
-Failure Penalty: Gain 2 points of stress. If stress exceeds 5, take 1 point of physical damage. Excess stress beyond 5 continues to stack as 1 point of damage per point of stress.
+If your roll fails:
+extra 1d4 sanity damage, +X (where X is spell level) stress.
 
-Level 3:
-Failure Penalty: Gain 3 points of stress. If stress exceeds 5, take 1 point of physical damage. Excess stress beyond 5 continues to stack as 2 points of damage per point of stress.
-
-Level 4:
-Failure Penalty: Gain 4 points of stress. If stress exceeds 5, take 1 point of physical damage. Excess stress beyond 5 continues to stack as 3 points of damage per point of stress.
-
-Level 5:
-Failure Penalty: Gain 5 points of stress. If stress exceeds 5, take 1 point of physical damage. Excess stress beyond 5 continues to stack as 5 points of damage per point of stress.
+### Should I even do this?
+Base Humans cannot use magic without getting majorly fucked up. They have to die or go through some major trauma. Even the best human mages can only learn up to Level 3 and you must endure another trauma for each level, if you hit level 5 without proper preparations you _become_ the monster being hunted down. Extranormal Humans 
 
 ### but not if you take the time to do it right
 Level 1: 1 hour
