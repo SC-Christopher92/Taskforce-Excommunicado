@@ -171,7 +171,7 @@ If a character's Stress exceeds 5 points, they lose 1 sanity for each additional
 
 
 ## Jr. Agents
-tl;dr they're hirelings, pick 12 skills from the main list in the allowed categories. You can also use them as level 0 characters.
+tl;dr they're hirelings, pick 12 skills from the main list in the allowed categories. You can also use them as level 0 characters. Your influence bonus determines how many you can have.
 
 # Playing the Game
 ## The Clock
