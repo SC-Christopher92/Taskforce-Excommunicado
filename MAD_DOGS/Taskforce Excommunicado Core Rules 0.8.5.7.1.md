@@ -1,7 +1,5 @@
 # Rolling The Dice
-The only set of dice needed for this game is a set of two six sided dice and a set of the standard polyhedral dice. 
-
-### The Basic Roll 
+## The Basic Roll 
 Player rolls 2d6 + Skill + Stat, Referee rolls 2d12. Compare the total sum of the 2d6 roll to the face value + Difficulty of the d12s separately. Refer to the chart for resolving the outcome. A roll of 2 will always result in a failure, a roll of 12 will always result in a success.
 
 | 2d6 Doubles | d12 #1 | d12 #2 | Result    |
@@ -18,7 +16,7 @@ Player rolls 2d6 + Skill + Stat, Referee rolls 2d12. Compare the total sum of th
 
 See: [[#Attacking & Counterattacks]].
 
-#### Compare Roll Difficulty Rating
+### Compare Roll Difficulty Rating
 Add the following to the 2d12 roll: 
 - Trivial: +0 
 - Normal: +2 
@@ -27,8 +25,8 @@ Add the following to the 2d12 roll:
 - Impossible: +8
 
 # Creating an Agent
-### The Basics
-
+## The Basics
+Every Agent needs:
 ##### Sex & Gender
 The character's sex and gender identity. This has no effect on character creation but may come up in gameplay when dealing with anomalies.
 
@@ -64,7 +62,8 @@ See [[#Traumas]].
 ##### Assets
 [[#List of Equipment]]
 
-# Traumas
+## More Details
+### Traumas
 When a character dies and is resurrected they take a psychosis you can have up to three then you die for realsies.
 
 | d6  | Trauma            |
@@ -75,29 +74,29 @@ When a character dies and is resurrected they take a psychosis you can have up t
 | 4   | Hunter's Call     |
 | 5   | Lady Luck's Curse |
 | 6   | Anhedonia         |
-### Cracked Intellect
+#### Cracked Intellect
 Gain a skill level in a sphere of magic.
 Permanently gain an additional +1, up to +3, in Intelligence, however intelligent people are not happy, your stress will never fall below 2. 
-### Shadow Touched
+#### Shadow Touched
 Gain a skill level in a sphere of magic.
 +1 up to 3 Agility, gain Vampirism
-### Braid Touched
+#### Braid Touched
 Gain a skill level in a sphere of magic.
 [[CRED_000 - Thaumaturgy]]
-### Hunter's Call
+#### Hunter's Call
 Gain a skill level in a sphere of magic.
 +1 up to +3 strength, Gain Lycanthropy/
-### Lady Luck's Curse
+#### Lady Luck's Curse
 Gain a skill level in a sphere of magic.
 Gain +1 up to +3 luck. High will never fall below 1.
-### Anhedonia
+#### Anhedonia
 Gain a skill level in a sphere of magic.
 High will never go above 0.
 
-### Removing Traumas
+#### Removing Traumas
 For a character to remove a trauma they must rest uninterrupted for a month. All abilities tied to the trauma will be removed except for any skill in magic spheres.
 
-# Stats 
+### Stats 
 Each character has six stats, Strength, Agility, Intelligence, Education, Influence, and Luck. These base.
 
 | Stat         | Influence                            |
@@ -109,7 +108,7 @@ Each character has six stats, Strength, Agility, Intelligence, Education, Influe
 | Influence    | Social Skills, Command Skills        |
 | Luck         | Used for non-standard skills.        |
 
-### Assigning Stats
+#### Assigning Stats
 Stats start at 5 and go up to 10, you get 10 points to distribute, You may remove up to two points to distribute to other stats. You cannot lower the skill below 3.
 
 Main Roll is still 2d6 + Stat + Skill
@@ -128,10 +127,10 @@ Main Roll is still 2d6 + Stat + Skill
 | 9     | 2             | +2    |
 | 10    | 3             | +3    |
 
-# Luck 
+### Luck 
 In the event that a player is called to roll for a skill while they are still at the Novice (0) level, rather than applying the skill bonus the player will apply their Luck Bonus. 
 
-# Skills 
+### Skills 
 Every character will start with sixteen (16) skill points which they will assign to the following skills. Skill levels go from 0 to 5. Novice (0), Apprentice (1), Journeyman (2), Craftsman (3), Artisan (4), Master (5). Each skill level gives +1 to rolls made using the skill up to +5. For each category there are four slots for custom skills. If a skill you think your character should have is not on the list talk this over with the referee during character creation to add a custom skill.
 
 | Physical     | Acrobatics | Technical  | Humanities   | Command      | Social       | Sciences    | Survival     |
@@ -146,7 +145,7 @@ Every character will start with sixteen (16) skill points which they will assign
 |              |            |            |              |              |              |             |              |
 |              |            |            |              |              |              |             |              |
 |              |            |            |              |              |              |             |              |
-##### Experience
+### Experience
 1. **Initial Character Creation**: When you first create your character, you allocate skill levels. These are the starting points for your skills.
 2. **Improving Skills**: After character creation, the only way to increase a skill level is by failing a roll related to that skill.
 3. **Earning Experience Points (XP)**: When a character fails a roll, they gain an experience point (XP). This represents the character learning from their mistakes or experiences, possibly through some sort of mental training or process like DPI (if that's what you intended).
@@ -162,14 +161,20 @@ Every character will start with sixteen (16) skill points which they will assign
 | 100     | Craftsman   |
 | 250     | Artisan     |
 | 500     | Master      |
-# Sanity (WIP)
+### Sanity (WIP)
 tl;dr sanity is calculated by adding your Intelligence and Education and Psychology scores together. Sanity doesn't deal physical damage, at first, if a character's sanity is at 0 for each point of sanity damage the character takes it will instead subtract from HP. Sanity will restore by 1 every four hours of rest.
-# Stress & High
+### Stress & High
 Throughout the game, characters will accumulate Stress and High points. For each point of Stress a character possesses, they suffer a -1 penalty on their rolls. Stress can be alleviated by expending a High point. Each High point spent reduces the character's Stress by 1. Additionally, at any moment, a High point can be expended to grant a +1 bonus to a roll for each point spent.
 
 If a character's Stress exceeds 5 points, they lose 1 sanity for each additional point of Stress beyond 5, and their Stress resets to 5. Players can maintain a maximum of 3 High points at any given time.
 
-# The Clock
+
+
+## Jr. Agents
+tl;dr they're hirelings, pick 12 skills from the main list in the allowed categories. You can also use them as level 0 characters.
+
+# Playing the Game
+## The Clock
 24 hours in a day, time is split up into hours which is made up of six 10 minute segments. The Days are split into four times, Night, Morning, Day, and Evening.
 ### Time of Day
 - 21:00 - 04:00 = Night
@@ -202,10 +207,10 @@ If a character's Stress exceeds 5 points, they lose 1 sanity for each additional
 - Research: 1d4 Hours.
 - Interview: 1d4 Hours.
 
-# Research Phase (WIP)
-The player during the research phase will be able to conduct research, conduct interviews, etc. This would all be on a clock. roll 2d6+Stat+Skill, subtract sum from Research Timer. 
 
-# Combat Phase
+## Research (WIP)
+The player during the research phase will be able to conduct research, conduct interviews, etc. This would all be on a clock. roll 2d6+Stat+Skill, subtract sum from Research Timer. 
+## Combat
 ### Spaces, AP
 ##### Spaces 
 A **Space** is a square or hexagon taking up 5 ft. A character does not necessarily take up the entire 5 foot square rather it is the space that they reliably control. 
@@ -232,7 +237,7 @@ During a Long Rest a player regains their full HP and FT, and regains 1 Sanity. 
 ### Attacking & Counterattacks
 tl;dr the character and the enemy attack at the same time, if you fail you miss and the enemy doesn't, if you cost you deal half damage but the enemy deals full damage, if you succeed the enemy misses and you deal full damage. A failed combat roll does not count towards traumas. 
 
-# Death
+## Death
 When an Agent's hit points reach 0, they experience temporary demise, swiftly followed by resurrection. Thanks to a blend of cutting-edge medical advancements and the utilization of anomalous phenomena, death becomes a negligible concern for DPI and TFE operatives. Rest assured, the agency values the unique skills and expertise each agent contributes, ensuring their return to duty.
 
 However, this reassurance doesn't extend to the quality of one's afterlife. The experience of death and the subsequent interlude in the beyond may prove unsettling. Upon revival, agents should prepare for a reset: set stress to 5 and high to 0. Then, roll a d6 to ascertain the nature of their afterlife experience.
@@ -246,8 +251,8 @@ However, this reassurance doesn't extend to the quality of one's afterlife. The 
 | 5   | **The Farms**             |
 | 6   | **The Waiting Room**      |
 See [[Addendum 01 - Afterlife States]] for further information.
-
-# Weapon Tags 
+# Equipment
+## Weapon Tags 
 Where **X** appears it represents the weapon level. 
 ##### Light 
 Weapons with the **Light** tag will deal Xd4 damage. 
@@ -280,7 +285,7 @@ Weapons with the **Field** tag can strike at opponents within a 30 to 50 foot ra
 ##### Far 
 Weapons with the **Far** tag can strike at opponents within a 100 to 300 foot range. 
 
-# List of Equipment 
+## List of Equipment 
 ### Income
 Characters start with $4,200 in Funds and are given this amount weekly in salary.
 
