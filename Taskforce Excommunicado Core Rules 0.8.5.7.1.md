@@ -30,9 +30,11 @@ Every Agent needs:
 ##### Sex & Gender
 The character's sex and gender identity. This has no effect on character creation but may come up in gameplay when dealing with anomalies.
 
-##### Role
-- Researchers: Take +1 in any 6 Skills in Sciences, Humanities, and/or Technical.
-- Operators: Take +1 in any 6 Skills in Command, Physical, and/or Acrobatics.
+##### Roles:
+I need to paste this in [[#roles]]
+
+##### skills
+Take 1 point in any three skills.
 
 ##### Ancestry:
 - Vampire: Start with the Vampirism Trauma. +1 Influence, +1 Agility, -1 Strength.
@@ -82,7 +84,7 @@ Gain a skill level in a sphere of magic.
 +1 up to 3 Agility, gain Vampirism
 #### Braid Touched
 Gain a skill level in a sphere of magic.
-[[CRED_000 - Thaumaturgy]]
+[[CRED-000 - Thaumaturgy]]
 #### Hunter's Call
 Gain a skill level in a sphere of magic.
 +1 up to +3 strength, Gain Lycanthropy/
@@ -131,7 +133,7 @@ Main Roll is still 2d6 + Stat + Skill
 In the event that a player is called to roll for a skill while they are still at the Novice (0) level, rather than applying the skill bonus the player will apply their Luck Bonus. 
 
 ### Skills 
-Every character will start with sixteen (16) skill points which they will assign to the following skills. Skill levels go from 0 to 5. Novice (0), Apprentice (1), Journeyman (2), Craftsman (3), Artisan (4), Master (5). Each skill level gives +1 to rolls made using the skill up to +5. For each category there are four slots for custom skills. If a skill you think your character should have is not on the list talk this over with the referee during character creation to add a custom skill.
+Skill levels go from 0 to 5. Novice (0), Apprentice (1), Journeyman (2), Craftsman (3), Artisan (4), Master (5). Each skill level gives +1 to rolls made using the skill up to +5. For each category there are four slots for custom skills. If a skill you think your character should have is not on the list talk this over with the referee during character creation to add a custom skill.
 
 | Physical     | Acrobatics | Technical  | Humanities   | Command      | Social       | Sciences    | Survival     |
 | ------------ | ---------- | ---------- | ------------ | ------------ | ------------ | ----------- | ------------ |
@@ -167,8 +169,6 @@ tl;dr sanity is calculated by adding your Intelligence and Education and Psychol
 Throughout the game, characters will accumulate Stress and High points. For each point of Stress a character possesses, they suffer a -1 penalty on their rolls. Stress can be alleviated by expending a High point. Each High point spent reduces the character's Stress by 1. Additionally, at any moment, a High point can be expended to grant a +1 bonus to a roll for each point spent.
 
 If a character's Stress exceeds 5 points, they lose 1 sanity for each additional point of Stress beyond 5, and their Stress resets to 5. Players can maintain a maximum of 3 High points at any given time.
-
-
 
 ## Jr. Agents
 tl;dr they're hirelings, pick 12 skills from the main list in the allowed categories. You can also use them as level 0 characters. Your influence bonus determines how many you can have.
@@ -334,13 +334,13 @@ Arrows, Bullets, or otherwise for ranged weapons. Enough for 4 Reloads.
 - Light, Explosive, Field. 
 - $1,000 / 4
 ##### Light Armor 
-- +2 FT, +1 Movement. 
+- +2 FT, -1 AP. 
 - $2,000
 ##### Medium Armor 
 - +4 FT. 
 - $3,000
 ##### Heavy Armor 
-- +6 FT. -2 Movement. 
+- +6 FT. -3 AP. 
 - $4,000
 ##### Comms
 Allows communication between any individuals on the same comms channel outside of Room range. 
