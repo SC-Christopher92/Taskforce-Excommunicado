@@ -92,7 +92,7 @@ Combat is split into two turns, the player round and the opponent round. The pla
 ## Cover & Half Cover 
 During the course of combat players will find themselves under attack. During their turn the players may choose to move behind obstacles. If a character is covered from sight above their head from the perspective of an opponent they are in complete cover and cannot take damage. If a character is covered from the waist down and could reasonable duck behind the object they are in half cover and will take 1/2 incoming damage. 
 
-# #Weapon Tags 
+# Weapon Tags 
 Where **X** appears it represents the weapon level. 
 ##### Light 
 Weapons with the **Light** tag will deal Xd4 damage. 

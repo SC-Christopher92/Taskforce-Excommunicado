@@ -1,0 +1,1 @@
+Originating from the alt.conspiracy.paranormal community the Mystical Mysteries Forum is the largest paranormal community on the web as of 2004. [[The United States Bureau of Paranormal Investigation]] keeps a close eye on the forum as a source of both recruitment for those who display a talent for the paranormal and for leads on potential cases.

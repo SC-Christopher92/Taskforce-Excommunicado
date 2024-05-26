@@ -2,11 +2,11 @@
 
 [[CRED-000 - Thaumaturgy]]
 [[CRED-001 - Little Grey Men]]
-CRED_002 - Homo sylvanus
-CRED_003 - The Librarians of Almina
-CRED_004 - The Pink Lady
-CRED_005 - Homo lupinus
-CRED_006 - Homo umbra
-CRED_007 - Homo sanguinus
-CRED_008 - Trauma Generated Entity
-CRED_009 - 
+[[CRED_002 - Homo sylvanus]]
+[[CRED_003 - The Librarians of Almina]]
+[[CRED_004 - The Pink Lady]]
+[[CRED_005 - Homo lupinus]]
+[[CRED_006 - Homo umbra]]
+[[CRED_007 - Homo sanguinus]]
+[[CRED_008 - Trauma Generated Entity]]
+[[CRED-009 - The Fandom]]
