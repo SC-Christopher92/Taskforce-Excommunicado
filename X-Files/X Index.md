@@ -13,3 +13,4 @@
 
 # 2000s
 [[X-2004.05.08.001 - The Dark Portal]]
+[[X-2004.05.28.001 - The Tanglewood Specter]]

@@ -176,7 +176,7 @@ Gain a skill level in a sphere of magic.
 +1 up to 3 Agility, gain Vampirism
 #### Braid Touched
 Gain a skill level in a sphere of magic.
-[[CRED-000 - Thaumaturgy]]
+[[CRED-000 - Probabilistics]]
 #### Hunter's Call
 Gain a skill level in a sphere of magic.
 +1 up to +3 strength, Gain Lycanthropy/
@@ -203,7 +203,7 @@ Each character has six stats, Strength, Agility, Intelligence, Education, Influe
 | Luck         | Used for non-standard skills.        |
 
 #### Assigning Stats
-Stats start at 5 and go up to 10, you get 10 points to distribute, You may remove up to two points to distribute to other stats. You cannot lower the skill below 3.
+Stats start at 5 and go up to 10, you get 6 points to distribute, You may remove up to two points to distribute to other stats. You cannot lower the skill below 3.
 
 Main Roll is still 2d6 + Stat + Skill
 

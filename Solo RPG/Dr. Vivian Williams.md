@@ -18,7 +18,7 @@ Researcher - **Grad Student**:
 | Stat | #   | Bonus |
 | ---- | --- | ----- |
 | STR  | 5   | 0     |
-| AGI  | 6   | 1     |
+| AGI  | 6   | 0     |
 | INT  | 7   | 1     |
 | EDU  | 7   | 1     |
 | INF  | 6   | 1     |

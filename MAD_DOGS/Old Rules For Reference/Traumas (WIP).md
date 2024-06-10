@@ -16,7 +16,7 @@ Gain a skill level in a sphere of magic.
 +1 up to 3 Agility, gain Vampirism
 ### Braid Touched
 Gain a skill level in a sphere of magic.
-[[CRED-000 - Thaumaturgy]]
+[[CRED-000 - Probabilistics]]
 ### Hunter's Call
 Gain a skill level in a sphere of magic.
 +1 up to +3 strength, Gain Lycanthropy/
