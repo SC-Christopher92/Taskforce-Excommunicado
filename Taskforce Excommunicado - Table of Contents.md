@@ -15,4 +15,4 @@
 [[Administrators & Staff]]
 [[Dr. Williams Theory of Multiversal Displacement]]
 # Solo
-[[Solo Index]]
+[[TFE]]

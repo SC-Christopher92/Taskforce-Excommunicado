@@ -2,7 +2,7 @@
 [[Faction Index]]
 
 # Example Documentation
-[[X-YYYY.MM.DD.(Item Number) - "Example"]]
+[[X-YYYY.(Item Number) - "Example"]]
 
 # 1900s
 [[X-1932.11.17.000 - Innsmouth Incident]]
